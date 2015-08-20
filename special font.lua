@@ -1,4 +1,4 @@
-local font = "Interface\\Addons\\special font\\special font\\100p.blp"
+local font = "Interface\\Addons\\special font\\font\\squarefont\\100p.blp"
 
 coords = {}
 coords["0"] = {0, 48/256, 0, 70/256}
